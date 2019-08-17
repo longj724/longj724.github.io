@@ -6,9 +6,37 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2019 14:27:45 -0400</lastBuildDate>
     
 	<atom:link href="https://longj724.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>https://longj724.github.io/posts/test/</link>
+      <pubDate>Thu, 15 Aug 2019 14:27:45 -0400</pubDate>
+      
+      <guid>https://longj724.github.io/posts/test/</guid>
+      <description>No posts yet&amp;hellip; coming in the future.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://longj724.github.io/about/</link>
+      <pubDate>Thu, 15 Aug 2019 12:54:53 -0400</pubDate>
+      
+      <guid>https://longj724.github.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Justin, and I am a sophomore at the University of Michigan. I currently live in Ann Arbor, but grew up and went to highschool in a suburb of Cleveland, Ohio. I am studying computer science, and am also interested in entrepreneurship and psychology. Outside of school I am very passionate aboute running, and endurance sports in general. I also enjoy reading, listening to podcasts, and watching Cleveland sports.</description>
+    </item>
+    
+    <item>
+      <title>Book Shelf</title>
+      <link>https://longj724.github.io/projects/p1/</link>
+      <pubDate>Thu, 15 Aug 2019 12:54:53 -0400</pubDate>
+      
+      <guid>https://longj724.github.io/projects/p1/</guid>
+      <description>This is of the main projects I&amp;rsquo;ve been working on while learning Javascript. It is nothing extremely complex but it has been a good way for me to practice implementing different features (which I plan on doing more of). It is only hosted locally, but &amp;ldquo;users&amp;rdquo; can sign in with their email and create a virtual book shelf that tracks books they have read and books they want to read. I used Cloud Firestore for the database and the Google Books API to retrieve the book covers.</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://longj724.github.io/projects/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2019 12:54:53 -0400</lastBuildDate>
+    
+	<atom:link href="https://longj724.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book Shelf</title>
+      <link>https://longj724.github.io/projects/p1/</link>
+      <pubDate>Thu, 15 Aug 2019 12:54:53 -0400</pubDate>
+      
+      <guid>https://longj724.github.io/projects/p1/</guid>
+      <description>This is of the main projects I&amp;rsquo;ve been working on while learning Javascript. It is nothing extremely complex but it has been a good way for me to practice implementing different features (which I plan on doing more of). It is only hosted locally, but &amp;ldquo;users&amp;rdquo; can sign in with their email and create a virtual book shelf that tracks books they have read and books they want to read. I used Cloud Firestore for the database and the Google Books API to retrieve the book covers.</description>
+    </item>
+    
+  </channel>
+</rss>
