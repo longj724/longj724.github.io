@@ -6,18 +6,47 @@
     <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 12:54:53 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://longj724.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Book Shelf / Goodreads Clone</title>
-      <link>https://longj724.github.io/projects/p1/</link>
-      <pubDate>Thu, 15 Aug 2019 12:54:53 -0400</pubDate>
+      <title>Code Snippet Note Taking Application - React, Node, MongoDB</title>
+      <link>https://longj724.github.io/projects/codenote/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://longj724.github.io/projects/p1/</guid>
-      <description>This is of the main projects I&amp;rsquo;ve been working on while learning Javascript. It has served as a good platform for me to practice implementing different features that are common in web apps. It is only hosted locally using Express, but &amp;ldquo;users&amp;rdquo; can sign in with their email and create a virtual book shelf that tracks books they have read and books they want to read. I used the Google Books API to allow users to search for books and retrieve information about them.</description>
+      <guid>https://longj724.github.io/projects/codenote/</guid>
+      <description>I utilized the MERN stack (MongoDB, Express, React, NodeJS) to create a basic note-taking application where users can embed snippets of code into their notes.</description>
+    </item>
+    
+    <item>
+      <title>Libary Notifier - React, Flask, sqlite</title>
+      <link>https://longj724.github.io/projects/librarynotifier/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://longj724.github.io/projects/librarynotifier/</guid>
+      <description>An application that sends me a text when a book from my local library is off of the waitlist. The frontend serves as an interface for me to search my library for books and add them to a SQL database.</description>
+    </item>
+    
+    <item>
+      <title>Open Source Contribution: Gitpay - React, Node</title>
+      <link>https://longj724.github.io/projects/gitpay/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://longj724.github.io/projects/gitpay/</guid>
+      <description>Gitpay
+I utilized React and Redux to create a client-side form, and NodeJS and Express to receive the form inputs and send them to the correct recipients in an email. I also used JSON Web Tokens to create secure routes that only the receivers of the email could access.</description>
+    </item>
+    
+    <item>
+      <title>Run Cycle - Node, HTML, CSS</title>
+      <link>https://longj724.github.io/projects/runcyle/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://longj724.github.io/projects/runcyle/</guid>
+      <description>Deployed Here -&amp;gt; Run Cycle
+This was one of the first side projects that I deployed to the web. I utilized NodeJS for the backend and Javascript, HTML, and CSS for the frontend. Users can enter in a starting location and distance that they want to run, and the application maps out a route for them that will return to the starting location.</description>
     </item>
     
   </channel>
