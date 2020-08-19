@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://longj724.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Library Notifier - React, Flask, sqlite</title>
+      <link>https://longj724.github.io/projects/librarynotifier/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://longj724.github.io/projects/librarynotifier/</guid>
+      <description>An application that sends me a text when a book from my local library is off of the waitlist. The frontend serves as an interface for me to search my library for books and add them to a SQL database.</description>
+    </item>
     
     <item>
       <title>Code Snippet Note Taking Application - React, Node, MongoDB</title>
@@ -18,15 +27,6 @@
       
       <guid>https://longj724.github.io/projects/codenote/</guid>
       <description>I utilized the MERN stack (MongoDB, Express, React, NodeJS) to create a basic note-taking application where users can embed snippets of code into their notes.</description>
-    </item>
-    
-    <item>
-      <title>Libary Notifier - React, Flask, sqlite</title>
-      <link>https://longj724.github.io/projects/librarynotifier/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://longj724.github.io/projects/librarynotifier/</guid>
-      <description>An application that sends me a text when a book from my local library is off of the waitlist. The frontend serves as an interface for me to search my library for books and add them to a SQL database.</description>
     </item>
     
     <item>
